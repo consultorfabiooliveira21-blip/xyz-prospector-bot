@@ -1,5 +1,5 @@
 ﻿[
-  {"id": 1, "nome": "João Silva", "linkedinUrl": "https://www.linkedin.com/in/joao-silva", "empresa": "Nubank", "cargo": "Gerente Comercial"},
-  {"id": 2, "nome": "Maria Santos", "linkedinUrl": "https://www.linkedin.com/in/maria-santos", "empresa": "Stone", "cargo": "Diretora de Vendas"},
-  {"id": 3, "nome": "Carlos Oliveira", "linkedinUrl": "https://www.linkedin.com/in/carlos-oliveira", "empresa": "WEG", "cargo": "Gerente Comercial"}
+  {"id": 1, "nome": "João Silva", "linkedinUrl": "https://linkedin.com/in/joaosilva", "empresa": "Tech Solutions", "cargo": "Gerente de Projetos"},
+  {"id": 2, "nome": "Maria Santos", "linkedinUrl": "https://linkedin.com/in/mariasantos", "empresa": "Digital Marketing Co", "cargo": "Especialista SEO"},
+  {"id": 3, "nome": "Carlos Oliveira", "linkedinUrl": "https://linkedin.com/in/carlosoliveira", "empresa": "StartUp Inovação", "cargo": "CEO"}
 ]
