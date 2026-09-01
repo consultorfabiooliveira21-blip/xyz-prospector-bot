@@ -1,0 +1,16 @@
+{
+  "name": "xyz-prospector-bot",
+  "version": "1.0.0",
+  "description": "Automated LinkedIn prospecting bot",
+  "main": "bot-linkedin-online.js",
+  "scripts": {
+    "start": "node bot-linkedin-online.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "playwright": "^1.40.0"
+  },
+  "engines": {
+    "node": "18.x || 20.x"
+  }
+}
